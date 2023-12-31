@@ -1,0 +1,40 @@
+---
+#Tin nhắn
+help: '§e༺§a§lDanh Sách Hiệu Ứng§r§e༻'
+helpList: '§b{particle} : §e{price}'
+
+particleOff: '§e༺§aHiệu Ứng§e༻§a Đã Ngừng Hoạt Động'
+
+particleNotExist: '§e༺§aHiệu Ứng§e༻§a Hiệu Ứng Bạn Vừa Nhập Không Tồn Tại'
+
+permNotExist:  '§e༺§aHiệu Ứng§e༻§a Bạn Không Có Quyền Sử Dụng Hiệu Ứng Này'
+
+notEnoughMoney: '§e༺§aHiệu Ứng§e༻§a Bạn Không Có Đủ Tiền Để Mua Hiệu Ứng'
+
+needToBuy: '§e༺§aHiệu Ứng§e༻§a Bạn Cần Mua Hiệu Ứng: {particle}'
+
+buy: '§e༺§aHiệu Ứng§e༻§a Đã Mua Thành Công Hiệu Ứng: {particle}'
+
+enabled: '§e༺§aHiệu Ứng§e༻§a Đã Kích Hoạt Hiệu Ứng: {particle}'
+
+save: '§e༺§aHiệu Ứng§e༻§a Đã Lưu Hiệu Ứng...'
+
+bought: '§f | §aHiệu Ứng Đã Mua §f|§d Ghi §e/hieuung {particle} §dĐể Bật'
+
+notBought: '§f | §cHiệu Ứng Chưa Được Mua §f|§d Ghi §e/hieuung buy {particle} §dĐể Mua'
+
+dontHavePermissions: '§b | Bạn Không Có Quyền Sử Dụng Hiệu Ứng Này'
+free: '§aGratis'
+price: '§e{price}'
+
+particles:
+  flame: 10000
+  lava: 10000
+  heart: 10000
+  water: 10000
+  happy: 10000
+  angry: 10000
+  bubble: 10000
+  portal: 10000
+  enchant: 10000
+...
